@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://gerardmonso.com](https://gerardmonso.com)
+<!-- - 👨‍💻 All of my projects are available at [https://gerardmonso.com](https://gerardmonso.com)-->
 
 - 📫 How to reach me **gerardmonso@gmail.com**
 
